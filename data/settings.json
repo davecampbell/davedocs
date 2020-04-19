@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "DaveStuff",
+      "topics": [
+        {
+          "title": "Background",
+          "slug": ""
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
