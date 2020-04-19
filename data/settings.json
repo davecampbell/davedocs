@@ -1,11 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "DaveStuff",
+      "section": "START HERE",
       "topics": [
         {
-          "title": "Background",
-          "slug": "thisisdavedocs"
+          "title": "FIRST",
+          "slug": "first"
         }
       ]
     },
