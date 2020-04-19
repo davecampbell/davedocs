@@ -7,11 +7,6 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: ''
-  label: Commentary
-  create: all
-  match: "**/*"
-- type: directory
   path: docs
   label: Docs
   create: all
